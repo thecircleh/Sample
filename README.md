@@ -1,3 +1,3 @@
 # Sample
 
-This is the inital readme.md file.
+This is the initial readme.md file.
