@@ -1,3 +1,3 @@
 # Sample
 
-This i sthe inital readme.txt file
+This is the inital readme.md file.
